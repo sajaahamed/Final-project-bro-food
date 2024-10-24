@@ -1,0 +1,126 @@
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.exe.config
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.exe
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.pdb
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\ZstdSharp.dll
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.add_new_meal.resources
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.Form1.resources
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.MainMenu.resources
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot .079DC59E.Up2Date
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.exe
+C:\Users\Administrator\Source\Repos\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.pdb
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\source\repos\final-project-dip\Bro Hot Food And Beverage\bin\Debug\stdole.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.exe.config
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.exe
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Bro Hot Food And Beverage.pdb
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\BouncyCastle.Cryptography.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.Shared.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Guna.UI2.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Hash.xxHash.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\MySql.Data.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Buffers.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.IO.Pipelines.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Memory.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Numerics.Vectors.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\ZstdSharp.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\stdole.dll
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\BouncyCastle.Cryptography.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.pdb
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Google.Protobuf.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\K4os.Hash.xxHash.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\MySql.Data.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Buffers.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.IO.Pipelines.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Memory.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Numerics.Vectors.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\final-project-dip\Bro Hot Food And Beverage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.AssemblyReference.cache
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.add_new_meal.resources
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.Form1.resources
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.MainMenu.resources
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro_Hot_Food_And_Beverage.Properties.Resources.resources
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.GenerateResource.cache
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.csproj.CoreCompileInputs.cache
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot .079DC59E.Up2Date
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.exe
+C:\final-project-dip\Bro Hot Food And Beverage\obj\Debug\Bro Hot Food And Beverage.pdb
